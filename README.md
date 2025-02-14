@@ -6,17 +6,17 @@ Vous trouverez dans ce dépôt les énoncés des devoirs. Chaque devoir doit
 Les devoirs doivent être remis sur GitHub, dans votre propre dépôt
 Classroom. Pour créer celui-ci, cliquez [ici][Classroom], et suivez les
 instructions. Vous serez éventuellement re-dirigé·e vers un dépôt qui
-porte votre nom d'utilisateur GitHub (SVP, assurez-vous que ce dernier
-contienne votre nom de famille).
+porte votre nom d'utilisateur GitHub. SVP, assurez-vous que votre nom
+d'utilisateur contienne votre nom de famille.
 
 Pour la première partie du cours, les devoirs seront faits dans [Pyret].
-Une fois que vous avez fini de rédiger un devoir, il faut télécharger le
-fichier sur votre ordinateur. Pour ce faire, cliquez sur l'onglet
-_File_, puis sur l'option _Download_ (vous devez être connecté·e à
-Google Drive pour que l'onglet apparaisse).
+Une fois que vous avez fini de rédiger un devoir, téléchargez le fichier
+sur votre ordinateur. Pour ce faire, cliquez sur l'onglet _File_, puis
+sur l'option _Download_ (vous devez être connecté·e à Google Drive pour
+que l'onglet apparaisse).
 
 Avant de soumettre un devoir, assurez-vous que celui-ci se trouve dans
-une répertoire dont le nom correspond au nom du devoir (par exemple,
+un répertoire dont le nom correspond au nom du devoir (par exemple,
 `01_valeurs-de-base`). Ouvrez ensuite la page de votre dépôt GitHub
 Classroom, cliquez sur le bouton _Add file_ ou _+_ (à gauche du bouton
 vert `Code`), puis choisissez l'option _Upload files_. Sélectionnez le
